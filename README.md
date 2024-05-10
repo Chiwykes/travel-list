@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Solution URL: [](https://travel-list-zeta-nine.vercel.app/)
+
+Solution URL: [Click Here](https://travel-list-zeta-nine.vercel.app/)
 
 ## Available Scripts
 
